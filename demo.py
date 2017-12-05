@@ -1,4 +1,4 @@
-from touchberry_pi.touchberry_pi import TouchberryPi
+from touchberrypi import TouchberryPi
 
 # def on_key_up(key):
 #     print("Key {} pressed".format(key))
